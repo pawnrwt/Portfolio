@@ -19,36 +19,54 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              Hi, I'm <b className="purple"> Pawan Rawat</b>, a seasoned Data
+              Analyst and Frontend Developer with over 4 years of experience in
+              Life Science and Insurance. Proficient in{" "}
+              <b className="purple">
+                {" "}
+                HTML, CSS, React.js, JavaScript, SQL, and Selenium
+              </b>
+              , I excel in crafting web applications and deriving insights from
+              data using{" "}
+              <b className="purple">
+                {" "}
+                R Programming, Python, Microsoft Excel and Power BI
+              </b>
+              .
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              <b className="purple">Professional Highlights</b>
+              <br />
+              <b className="purple">Cognizant:</b>
+              <br /> Programmer Analyst, adept in project implementation and
+              Frontend Development.
+              <br />
+              <b className="purple">UST Global:</b>
+              <br />
+              Developer III, led development of insurance portal, actively
+              involved in Scrum ceremonies.
+              <br />
+              <b className="purple">Deloitte:</b>
+              <br /> Consultant, developed chatbot, enhanced UI/UX, and
+              conducted data analysis.
+              <br />
+              <br />
+              <b className="purple">Education</b>
+              <br />
+              Masters in Data Science and its Applications from University of
+              Essex, United Kingdom &nbsp;
+              <br />
+              <br />
+              Harnessing my passion for <b className="purple"></b> and
+              <b className="purple"> data analytics</b>, I leverage cutting-edge
+              technologies like <b className="purple"></b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Agile methodologies, Python, R, Power BI, SQL, and implement
+                  innovative solutions using HTML, CSS, JavaScript, React.js,
+                  Selenium, and Java.
                 </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
               </i>
             </p>
           </Col>
@@ -75,7 +93,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://twitter.com/Soumyajit4419"
                   target="_blank"
@@ -84,8 +102,8 @@ function Home2() {
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
-              <li className="social-icons">
+              </li> */}
+              {/* <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/soumyajit4419/"
                   target="_blank"
@@ -94,8 +112,8 @@ function Home2() {
                 >
                   <FaLinkedinIn />
                 </a>
-              </li>
-              <li className="social-icons">
+              </li> */}
+              {/* <li className="social-icons">
                 <a
                   href="https://www.instagram.com/soumyajit4419"
                   target="_blank"
@@ -104,7 +122,7 @@ function Home2() {
                 >
                   <AiFillInstagram />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>
